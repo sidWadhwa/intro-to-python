@@ -10,7 +10,7 @@ Before you start, make sure that you are using the Shell 🐚 (not the console).
 
 3. Using `cd <directory_name>` go into the "session_00" directory.
 
-4. Create a new folder named "my_first_folder" using `mkdir <directory_name>`.
+4. Create a new folder named "pwd" using `mkdir <directory_name>`.
 
 5. Delete the empty folder "my_first_folder" using `rmdir <directory_name>`.
 
